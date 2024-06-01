@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently building an AI Doctor Assistant and AI for Medical Imaging.
+🔭 I’m currently building an AI Clinical Decision Support System and AI for Medical Imaging.
 
 👯 I’m looking to collaborate on AI Medical Imaging or AI Medical LLM technologies.
 
